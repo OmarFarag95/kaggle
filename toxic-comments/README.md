@@ -1,6 +1,6 @@
 # Kaggle Toxic Comment Classification Challenge
 
-- This still a work in progress _trying to achieve better score on test set_
+- This still a work in progress _(trying to achieve better score on test set)_
 - [Link to Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
 ## Dataset Brief Description
